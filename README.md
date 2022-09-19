@@ -20,6 +20,7 @@ Whenever there is a large election event occured, it's a extraordinary task for 
   
   <img width="429" alt="捕获" src="https://user-images.githubusercontent.com/109333158/190945165-c8f1e8bb-3fa4-4fff-b1ad-ae74a09590c8.PNG">
   
-## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+## Election-Audit Summary: 
+The code runs smoothly, we get the result we need, but there are some area to improve in the future.
 First,we could modify the code to identify which candiate has the leaat number of vote. Make them withdrawl from the next election.
-Last, we could modify the code to tell which candidate is most supported by which county. This would tell the canidiate to foucus on which county on promotional event.
+Last, we could modify the code to tell which candidate is most supported by which county. This would tell the canidiate to foucus on which county on promotional event in the next election.
